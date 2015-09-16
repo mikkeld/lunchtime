@@ -79,12 +79,8 @@
 		B6DF05691BA9F3FB00152CE4 /* Lunchtime */ = {
 			isa = PBXGroup;
 			children = (
-				B6DF056C1BA9F3FB00152CE4 /* AppDelegate.swift */,
 				B6DF05711BA9F3FB00152CE4 /* ViewController.swift */,
 				B6DF05731BA9F3FB00152CE4 /* Main.storyboard */,
-				B6DF05761BA9F3FB00152CE4 /* Images.xcassets */,
-				B6DF05781BA9F3FB00152CE4 /* LaunchScreen.xib */,
-				B6DF056E1BA9F3FB00152CE4 /* Lunchtime.xcdatamodeld */,
 				B6DF056A1BA9F3FB00152CE4 /* Supporting Files */,
 			);
 			path = Lunchtime;
@@ -93,6 +89,10 @@
 		B6DF056A1BA9F3FB00152CE4 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				B6DF056C1BA9F3FB00152CE4 /* AppDelegate.swift */,
+				B6DF05761BA9F3FB00152CE4 /* Images.xcassets */,
+				B6DF05781BA9F3FB00152CE4 /* LaunchScreen.xib */,
+				B6DF056E1BA9F3FB00152CE4 /* Lunchtime.xcdatamodeld */,
 				B6DF056B1BA9F3FB00152CE4 /* Info.plist */,
 			);
 			name = "Supporting Files";
